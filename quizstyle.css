@@ -1,0 +1,29 @@
+body{
+  font-family: 'Georgia'; serif;
+  color: black;
+  background: white;
+}
+
+h1{
+  font-size: 20px;
+  margin-top: 0px;
+  margin-bottom: 35px;
+}
+a{
+  color:black;
+text-decoration-line: none;
+
+}
+
+a:hover{
+
+  font-style: italic;
+}
+img {
+    width: 700px;
+    height: 579px;
+    margin-bottom: -10px;
+}
+header {
+  margin-top: 20px;
+}

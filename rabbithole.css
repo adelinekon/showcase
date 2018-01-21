@@ -1,0 +1,43 @@
+img{
+	max-height: 100%;
+	max-width: 100%;
+}
+.hole {
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.hole img{
+	width: 1200px;
+    height: 2400px;
+    top: 0px;
+    bottom: 0px;
+    margin-bottom: 0px;
+}
+.alice{
+	position: fixed;
+	margin-left: 400px;
+	margin-bottom: 0px;
+	z-index: -1
+}
+.alice img{
+	width: 450px;
+	height: 400px;
+	padding-bottom: 0px;
+}
+h1 {
+	position: relative;
+	bottom: 210px;
+	font-size: 30px;
+	margin-bottom: 0px;
+	z-index: 1
+}
+a{
+  color:black;
+text-decoration-line: none;
+
+}
+
+a:hover{
+
+  font-style: italic;
+}
